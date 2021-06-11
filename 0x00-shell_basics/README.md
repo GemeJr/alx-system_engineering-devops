@@ -1,0 +1,1 @@
+chmod u+x <filename> to make file excutable 
