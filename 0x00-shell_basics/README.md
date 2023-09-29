@@ -1,1 +1,1 @@
-This script displays current working directory when executed
+This script performs different tasks when executed
