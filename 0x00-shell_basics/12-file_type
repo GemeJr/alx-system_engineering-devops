@@ -1,3 +1,2 @@
 #!/bin/bash
-touch /tmp/imafile
 file /tmp/imafile
